@@ -7,6 +7,7 @@ Node.js is an **open-source**, **cross-platform** JavaScript runtime environment
 - Node.js enables you to run JavaScript **outside the browser**, making it ideal for server-side applications.
 - **Use Cases**: Node.js is used to create web servers, APIs, real-time applications (like chat apps), and microservices, all thanks to its **performance**, **scalability**, and **efficiency**.
 - Node.js is maintained by the **OpenJS Foundation**, ensuring ongoing development and support.
+- Node.js helps u run javascript outside web browser.
 
 ---
 
