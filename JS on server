@@ -1,0 +1,24 @@
+# Server:- A server means nothing but a remote computer ( assume its a CPU working remotely),
+
+think of a server as a computer thatis located somewwhere ,
+suppose we running a website on server ( somebodies computer,cloud)
+it is one machine tht recing the request.
+
+
+                                           [--------]
+[client]------------ > request ----------->[        ]                 
+web-browser                                [--------]
+google.com                                  server
+every domain name maps to a ip
+114.85.10.184 this points to a server 
+
+
+nodejs is c++ code 
+js engine v8 developeb by google 
+v8 is written in c++ programe
+V8 can be embedded into any C++ application.(vvvv important)
+job of v8 engine is to execute js code to machine level code
+
+
+
+node js is a c ++ apllication with v8 embeded in it 
