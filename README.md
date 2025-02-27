@@ -3,7 +3,7 @@
 ## 1. What is Node.js?
 Node.js is an **open-source**, **cross-platform** JavaScript runtime environment built on Chrome's V8 engine, allowing you to run JavaScript on the server side.
 
-- It has an **event-driven architecture** with **asynchronous I/O**, meaning Node.js can handle multiple operations simultaneously without waiting for one to complete. This makes it highly efficient for I/O-heavy tasks like web servers and APIs.
+- It has an **event-driven architecture** with **asynchronous I/O**, **(NON Blacking I/O) ** meaning Node.js can handle multiple operations simultaneously without waiting for one to complete. This makes it highly efficient for I/O-heavy tasks like web servers and APIs.
 - Node.js enables you to run JavaScript **outside the browser**, making it ideal for server-side applications.
 - **Use Cases**: Node.js is used to create web servers, APIs, real-time applications (like chat apps), and microservices, all thanks to its **performance**, **scalability**, and **efficiency**.
 - Node.js is maintained by the **OpenJS Foundation**, ensuring ongoing development and support.
